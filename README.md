@@ -13,6 +13,6 @@
 * `git branch someBranch` - create branch `someBranch`
 * `git checkout someBranch` - move to branch `someBranch`
 * `git checkout -b otherBranch`- create and checkout `otherBranch`
-
+* `git pull origin main` - pull remote `main` into current branch
 ### Remote commands
 * `git remote add origin URL` - set remote repo alias `origin` for `URL`
