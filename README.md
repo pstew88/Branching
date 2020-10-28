@@ -13,3 +13,4 @@
 * `git branch someBranch` - create branch `someBranch`
 * `git checkout someBranch` - move to branch `someBranch`
 * `git checkout -b otherBranch`- create and checkout `otherBranch`
+* `git config -l` -List git configuration
