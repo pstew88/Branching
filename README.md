@@ -9,7 +9,10 @@
 * `git log --oneline` - show git history (compact)
 
 ### Branching commands
-* `git branch` - Lists brances in current repository
+* `git branch` - Lists branches in current repository
 * `git branch someBranch` - create branch `someBranch`
 * `git checkout someBranch` - move to branch `someBranch`
 * `git checkout -b otherBranch`- create and checkout `otherBranch`
+
+### Remote commands
+* `git remote add origin URL` - set remote repo alias `origin` for `URL`
