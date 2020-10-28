@@ -1,4 +1,4 @@
-##Git Cheat sheet
+##Git Cheatsheet
 
 ###Basic commands
 * `git init` - Initialize local git repository
@@ -9,8 +9,10 @@
 * `git log --oneline` - show git history (compact)
 
 ### Branching commands
-* `git branch` - Lists brances in current repository
+* `git branch` - Lists branches in current repository
 * `git branch someBranch` - create branch `someBranch`
 * `git checkout someBranch` - move to branch `someBranch`
 * `git checkout -b otherBranch`- create and checkout `otherBranch`
-* `git config -l` -List git configuration
+
+### Remote commands
+* `git remote add origin URL` - set remote repo alias `origin` for `URL`
